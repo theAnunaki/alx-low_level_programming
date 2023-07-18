@@ -21,7 +21,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		putchat('\n');
+		putchar('\n');
 	}
 	return (0);
 
